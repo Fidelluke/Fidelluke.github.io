@@ -26,11 +26,11 @@ Worked as an intern;
 - **Kenya Electricity Generating Company**, -*2018*
 ---
 ## Core Technical Skills
-_ **Key strengths**
+-**Key strengths**
 - Digital forensics (Acquisition, Analysis, Chain of Custody)
 - Forensic Auditing (IT Compliance, Log Analysis, Risk Assessment)
 ---
-- **Cybersecurity and Investigation Tools**
+-**Cybersecurity and Investigation Tools**
 - Kali Linux
 - Metasploit
 - FTK Imager
