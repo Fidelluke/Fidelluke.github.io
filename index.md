@@ -5,16 +5,16 @@
 layout: home
 author_profile: true
 ---
-#Curriculum Vitae - Fidel Luke Owiti Odhiambo
+# Curriculum Vitae - Fidel Luke Owiti Odhiambo
 
-##Education
--BSc In Applied Computer Technology, United States International University, Africa -* Deans List Nominee*
+## Education
+- **BSc In Applied Computer Technology**, United States International University, Africa -* Deans List Nominee*
 
 
-##Certifications
+## Certifications
 Two certifications available on credly: https://www.credly.com/users/fidel-odhiambo.9e97626f
 
--Cybersecurity Fundamentals with Capstone Project
--Cybersecurity Fundamentals
+- Cybersecurity Fundamentals with Capstone Project
+- Cybersecurity Fundamentals
 
 ---
